@@ -62,9 +62,9 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 {% endfor %}
 
 ## 🌍 Conference
-- 2024.10: “Computational Biology of the Genome” Cold Spring Harbor Asia Conference, Suzhou
+- 2024.10: “Computational Biology of the Genome” Cold Spring Harbor Asia Conference, Suzhou <br>
   —  learned and shared research ideas
-- 
+  
 ## 🎖️ Honors and Awards  
 - 2023.06: 🌟 Outstanding Bachelor Graduate of Xuzhou Medical University
 - 2023.04: 💰 First Prize Scholarship of Xuzhou Medical University (Top 5%)
