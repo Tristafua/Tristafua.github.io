@@ -1,42 +1,29 @@
-/* ==========================================================================
-   Publications Section
-   ========================================================================== */
-
 .pub-item {
   display: flex;
   gap: 20px;
   align-items: flex-start;
-  margin-bottom: 28px;
-
-  background: transparent;  /* 整体不加背景 */
-  box-shadow: none;         /* 阴影只给左边图片卡片 */
+  margin-bottom: 24px;
+  background: transparent;  /* 不要整体阴影 */
 }
 
 /* 左边图片卡片 */
 .pub-thumb {
-  flex: 0 0 240px;     /* 固定宽度，保证整齐 */
-  height: 160px;       /* 固定高度 */
-  background: #fff;
-  border-radius: 10px;
+  flex: 0 0 260px;               /* 固定宽度 */
+  background: #fff;              /* 单独白色背景 */
+  border-radius: 8px;
+  padding: 8px;
+  margin-right: 12px;
 
-  /* 更立体的右下阴影（双层） */
-  box-shadow: 
-    10px 10px 22px rgba(0, 0, 0, 0.35),   /* 主阴影，深色，右下 */
-    3px 3px 8px rgba(0, 0, 0, 0.25);      /* 次阴影，浅色，右下 */
-
-  padding: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-right: 16px;
+  /* 仿照模板：右下阴影 */
+  box-shadow: 3px 3px 6px rgba(0,0,0,0.35); 
 }
 
 .pub-thumb img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;  /* 保持比例 */
+  width: 100%;
+  height: auto;
   border-radius: 6px;
   display: block;
+  object-fit: cover;
 }
 
 /* 右边文字部分 */
@@ -46,19 +33,18 @@
 
 .pub-title {
   font-weight: 600;
-  font-size: 1.25rem;
-  margin: 0 0 0.6rem;
-  line-height: 1.4;
+  font-size: 1.2rem;
+  margin: 0 0 0.5rem;
 }
 
 .pub-authors {
   font-size: 0.95rem;
-  color: #444;
-  margin-bottom: 0.6rem;
+  color: #555;
+  margin-bottom: 0.5rem;
 }
 
 .pub-links a {
-  margin-right: 14px;
+  margin-right: 12px;
   font-weight: 500;
   color: #0077cc;
 }
