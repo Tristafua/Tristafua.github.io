@@ -8,14 +8,14 @@
 
 /* 左边图片卡片 */
 .pub-thumb {
-  flex: 0 0 260px;               /* 固定宽度 */
-  background: #fff;              /* 单独白色背景 */
+  flex: 0 0 240px;              /* 稍微窄一点 */
+  background: #fff;             
   border-radius: 8px;
   padding: 8px;
   margin-right: 12px;
 
-  /* 仿照模板：右下阴影 */
-  box-shadow: 3px 3px 6px rgba(0,0,0,0.35); 
+  /* 右下阴影 */
+  box-shadow: 3px 3px 6px rgba(0,0,0,0.35);
 }
 
 .pub-thumb img {
@@ -29,23 +29,26 @@
 /* 右边文字部分 */
 .pub-body {
   flex: 1;
+  font-size: 0.9rem;      /* 全体缩小一点 */
+  line-height: 1.45;
 }
 
 .pub-title {
   font-weight: 600;
-  font-size: 1.2rem;
-  margin: 0 0 0.5rem;
+  font-size: 1rem;        /* 标题比正文略大，但不要太突兀 */
+  margin: 0 0 0.4rem;
 }
 
 .pub-authors {
-  font-size: 0.95rem;
+  font-size: 0.85rem;     /* 作者更小，更低调 */
   color: #555;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.4rem;
 }
 
 .pub-links a {
   margin-right: 12px;
   font-weight: 500;
+  font-size: 0.85rem;     /* 链接也缩小 */
   color: #0077cc;
 }
 
