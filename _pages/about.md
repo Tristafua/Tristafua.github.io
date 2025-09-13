@@ -20,9 +20,9 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
   
 ## Education 🧑‍🎓 {#education}
 - 2023.09 - Present, Peking Union Medical College / Chinese Academy of Medical Sciences <br>
-  Master of Pathology and Pathophysiology
+  — Master of Pathology and Pathophysiology
 - 2019.09 - 2023.06, Xuzhou Medical University <br>
-  Bachelor of Rehabilitation Therapeutics
+  — Bachelor of Rehabilitation Therapeutics
 
 ## Publications 📄 {#publications}
 {% assign pubs = site.publications | sort: 'date' | reverse %}
@@ -69,3 +69,7 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 - 2021.04: 💰 First Prize Scholarship of Xuzhou Medical University (Top 5%)
 - 2020.04: 🏆 Third Grade Prize in the XL Global Management Challenge, China
 - 2020.04: 💰 Second Prize Scholarship of Xuzhou Medical University (Top 10%)
+
+## Internship
+- 2022.06 - 2023.06 Department of Rehabilitation, Jiangsu Veterans Hospital, Wuxi, P.R. China 🇨🇳 
+
