@@ -1,32 +1,36 @@
+/* ==========================================================================
+   Publications Section
+   ========================================================================== */
+
 .pub-item {
   display: flex;
   gap: 20px;
   align-items: flex-start;
   margin-bottom: 24px;
 
-  /* 确保整体没有背景，阴影只给左边图片 */
+  /* 整体背景透明，阴影只给图片卡片 */
   background: transparent;
   box-shadow: none;
 }
 
 /* 左边图片卡片 */
 .pub-thumb {
-  flex: 0 0 240px;              /* 固定宽度 */
-  height: 160px;                /* 固定高度让卡片整齐 */
-  background: #fff;             /* 独立白色背景 */
+  flex: 0 0 240px;               /* 固定宽度 */
+  height: 160px;                 /* 固定高度保证整齐 */
+  background: #fff;              /* 独立白底 */
   border-radius: 8px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.15); /* 阴影更明显 */
+  box-shadow: 8px 8px 18px rgba(0,0,0,0.18); /* 右下角阴影 */
   padding: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-right: 12px;           /* 和右边文字隔开一点 */
+  margin-right: 16px;
 }
 
 .pub-thumb img {
   max-width: 100%;
   max-height: 100%;
-  object-fit: contain;          /* 保持比例缩放，不变形 */
+  object-fit: contain;           /* 保持比例缩放 */
   border-radius: 4px;
   display: block;
 }
@@ -52,8 +56,10 @@
   margin-right: 12px;
   font-weight: 500;
   color: #0077cc;
+  transition: color 0.2s ease;
 }
 
 .pub-links a:hover {
   text-decoration: underline;
+  color: #005fa3;
 }
