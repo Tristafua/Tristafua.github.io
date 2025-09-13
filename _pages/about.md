@@ -30,9 +30,6 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
   {% if pub.image %}
   <div class="pub-thumb">
     <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
-    {% if pub.venue %}
-      <span class="pub-badge">{{ pub.venue }} {% if pub.date %}{{ pub.date | date: "%Y" }}{% endif %}</span>
-    {% endif %}
   </div>
   {% endif %}
 
