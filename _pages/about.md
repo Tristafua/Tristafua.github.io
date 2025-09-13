@@ -28,7 +28,7 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 <div style="display:flex; align-items:center; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); padding:10px; border-radius:8px;">
 
   {% if pub.image %}
-    <{div style="flex:0 0 200px; margin-right:20px;">
+    <div style="flex:0 0 200px; margin-right:20px;">
       <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" style="max-width:100%; border-radius:6px;">
     </div>
   {% endif %}
