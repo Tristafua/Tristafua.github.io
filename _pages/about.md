@@ -17,9 +17,9 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 
 ## Education 🧑‍🎓 {#education}
 - 2023.09 - Present, Peking Union Medical College / Chinese Academy of Medical Sciences
-  — Master of Pathology and Pathophysiology
+- Master of Pathology and Pathophysiology
 - 2019.09 - 2023.06, Xuzhou Medical University
-  — Bachelor of Rehabilitation Therapeutics
+- Bachelor of Rehabilitation Therapeutics
 
 ## News 🔥 {#news}
 - 2025.03: 🎉 
