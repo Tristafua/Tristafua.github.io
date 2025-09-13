@@ -37,8 +37,12 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
     <p><strong>{{ pub.title }}</strong></p> 
     <p>{{ pub.citation }} </p> 
     <p>
-      {% if pub.paperurl %}[PDF]({{ pub.paperurl }}){% endif %}
-      {% if pub.bibtexurl %}[BibTeX]({{ pub.bibtexurl }}){% endif %}
+      {% if pub.paperurl %}
+        <a href="{{ pub.paperurl }}" download target="_blank">Paper</a>
+      {% endif %}
+      {% if pub.bibtexurl %}
+        | <a href="{{ pub.bibtexurl }}" target="_blank">BibTeX</a>
+      {% endif %}
     </p>
   </div>
 </div>
