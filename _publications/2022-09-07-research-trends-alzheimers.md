@@ -7,7 +7,7 @@ excerpt: 'This paper studies research trends and hotspots of exercise for AD.'
 date: 2022-09-07
 venue: 'Journal of Neuroscience'
 paperurl: 'https://link-to-your-paper.com'
-image: "/images/publications/paper1.png"
+image: "/images/paper1.png"
 citation: 'Chen B, Fu Y, Song G, Zhong W, Guo J. Research trends and hotspots...'
 ---
 
