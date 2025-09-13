@@ -22,7 +22,12 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 - 2025.03: 🎉 RWKV-UI is accepted...</li>
 
 ## Publications 📄 {#publications}
-
-
+{% assign pubs = site.publicatoons | sort: 'date' | reverse %}
+{% for pub in pubs limit:3 %}
+- **{{ pub.title }}**
+  _{{ pub.venue }}_, {{ pub.date | date: "%Y" }}
+  {{pub.excerpt }}
+  [paper]({{pub.paperurl }})
+{% endfor %}
 
 
