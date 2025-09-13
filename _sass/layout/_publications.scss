@@ -1,36 +1,52 @@
 .pub-item {
   display: flex;
-  gap: 28px;
+  gap: 20px;
   align-items: flex-start;
-  padding: 18px 20px;
-  border-radius: 12px;
-  background: #fff;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
-  margin-bottom: 22px;
+  margin-bottom: 24px;
 }
 
+/* 左边图片卡片 */
 .pub-thumb {
-  position: relative;
-  flex: 0 0 280px; /* 左侧固定宽度 */
+  flex: 0 0 240px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .pub-thumb img {
   max-width: 100%;
-  border-radius: 6px;
+  height: auto;
+  border-radius: 4px;
   display: block;
 }
 
+/* 右边文字部分 */
 .pub-body {
   flex: 1;
 }
 
 .pub-title {
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   margin: 0 0 0.5rem;
+}
+
+.pub-authors {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.5rem;
 }
 
 .pub-links a {
   margin-right: 12px;
   font-weight: 500;
+  color: #0077cc;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
 }
