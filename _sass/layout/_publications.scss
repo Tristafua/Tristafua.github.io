@@ -10,21 +10,19 @@
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   background: #fff;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.pub-image {
+   flex: 0 0 180px;
+   margin-right: 20px;
+
+   img{
+      width: 100%;
+      height: auto;
+      border-radius: 6px;
+      object-fit: cover;
+   }
 }
 
-.pub-row:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
-}
-
-.pub-row img {
-  flex: 0 0 180px; /* 固定图片宽度 */
-  height: auto;
-  margin-right: 20px;
-  border-radius: 6px;
-  object-fit: cover;
-}
 
 .pub-details {
   flex: 1;
@@ -33,53 +31,34 @@
 .pub-details .papertitle {
   font-weight: 600;
   font-size: 1.1rem;
-  margin: 0 0 0.5rem 0;
-  color: #043361; /* 深蓝色标题 */
+  margin-bottom: 0.5rem;
+  color: #003366; /* 深蓝色标题 */
 }
 
 .pub-details .citation {
-  font-size: 0.9rem;
-  color: #555;
-  margin: 0 0 0.5rem 0;
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+  color: #333;
 }
 
 .pub-links {
   margin-top: 0.5rem;
-}
 
-.pub-links a {
-  display: inline-block;
-  padding: 4px 10px;
-  margin-right: 8px;
-  font-size: 0.85rem;
-  font-weight: 500;
-  color: #fff !important;
-  background-color: #337ab7;
-  border-radius: 4px;
-  text-decoration: none;
-  transition: background 0.3s ease;
-}
-
-.pub-links a:hover {
-  background-color: #23527c;
-}
-
-/* 适配小屏幕 */
-@media (max-width: 768px) {
-  .pub-row {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+  .pub-btn {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 12px;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    background: #0056b3;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
   }
 
-  .pub-row img {
-    margin-right: 0;
-    margin-bottom: 10px;
-    width: 100%;
-    max-width: 250px;
-  }
-
-  .pub-details {
-    text-align: center;
+  .pub-btn:hover {
+    background: #003d80;
   }
 }
+
+
