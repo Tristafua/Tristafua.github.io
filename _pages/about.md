@@ -20,7 +20,7 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 - Bachelor of Rehabilitation Therapeutics, Xuzhou Medical University, Sep. 2019 - June. 2023
 
 ## News 🔥 {#news}
-- 2025.03: 🎉 RWKV-UI is accepted...</li>
+- 2025.03: 🎉 
 
 ## Publications 📄 {#publications}
 {% assign pubs = site.publications | sort: 'date' | reverse %}
