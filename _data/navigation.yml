@@ -10,6 +10,8 @@
 main:
   - title: "About Me"
     url: /#about
+  - title: "Education"
+    url: /#education
   - title: "News"
     url: /#news/
   - title: "Publications"
