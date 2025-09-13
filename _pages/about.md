@@ -16,8 +16,10 @@ My research interests focus on:m6A modification, mitochondria and neurodegenerat
 I'm finding some PhD positions, so if you're interested in me, feel free to [email me](mailto:fyjjade5525@gmail.com).
 
 ## Education 🧑‍🎓 {#education}
-- Master of Pathology and Pathophysiology, Peking Union Medical College, Chinese Academy of Medical Sciences, Sep. 2023 - Present
-- Bachelor of Rehabilitation Therapeutics, Xuzhou Medical University, Sep. 2019 - June. 2023
+- 2023.09 - Present, Peking Union Medical College / Chinese Academy of Medical Sciences
+  - Master of Pathology and Pathophysiology
+- 2019.09 - 2023.06, Xuzhou Medical University
+  - Bachelor of Rehabilitation Therapeutics
 
 ## News 🔥 {#news}
 - 2025.03: 🎉 
