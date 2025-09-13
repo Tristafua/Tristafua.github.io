@@ -25,6 +25,9 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 ## Publications 📄 {#publications}
 {% assign pubs = site.publications | sort: 'date' | reverse %}
 {% for pub in pubs limit:5 %}
+ {% if pub.image %}
+    <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" style="max-width:400px;">
+  {% endif %}
 - <strong>{{ pub.title }}</strong>  
   {{ pub.citation }}  
   {% if pub.paperurl %}[PDF]({{ pub.paperurl }}){% endif %}
