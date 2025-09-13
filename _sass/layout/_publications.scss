@@ -1,41 +1,41 @@
 /* ==========================================================================
-   Publications 卡片式展示
+   Publications Section
    ========================================================================== */
 
 .pub-item {
   display: flex;
   gap: 20px;
   align-items: flex-start;
-  margin-bottom: 24px;
+  margin-bottom: 28px;
 
-  /* 整体透明，阴影只给图片卡片 */
-  background: transparent;
-  box-shadow: none;
+  background: transparent;  /* 整体不加背景 */
+  box-shadow: none;         /* 阴影只给左边图片卡片 */
 }
 
 /* 左边图片卡片 */
 .pub-thumb {
-  flex: 0 0 240px;              /* 固定宽度 */
-  height: 160px;                /* 固定高度让卡片整齐 */
-  background: #fff;             /* 独立白色背景 */
-  border-radius: 8px;
+  flex: 0 0 240px;     /* 固定宽度，保证整齐 */
+  height: 160px;       /* 固定高度 */
+  background: #fff;
+  border-radius: 10px;
+
+  /* 更立体的右下阴影（双层） */
+  box-shadow: 
+    10px 10px 22px rgba(0, 0, 0, 0.35),   /* 主阴影，深色，右下 */
+    3px 3px 8px rgba(0, 0, 0, 0.25);      /* 次阴影，浅色，右下 */
+
   padding: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
   margin-right: 16px;
-
-  /* 右下角阴影效果（双层） */
-  box-shadow: 
-    8px 8px 18px rgba(0,0,0,0.18),  /* 右下角明显阴影 */
-    -2px -2px 6px rgba(0,0,0,0.02); /* 左上极淡阴影，避免四边均匀扩散 */
 }
 
 .pub-thumb img {
   max-width: 100%;
   max-height: 100%;
-  object-fit: contain;          /* 保持比例缩放，不变形 */
-  border-radius: 4px;
+  object-fit: contain;  /* 保持比例 */
+  border-radius: 6px;
   display: block;
 }
 
@@ -46,18 +46,19 @@
 
 .pub-title {
   font-weight: 600;
-  font-size: 1.2rem;
-  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+  margin: 0 0 0.6rem;
+  line-height: 1.4;
 }
 
 .pub-authors {
   font-size: 0.95rem;
-  color: #555;
-  margin-bottom: 0.5rem;
+  color: #444;
+  margin-bottom: 0.6rem;
 }
 
 .pub-links a {
-  margin-right: 12px;
+  margin-right: 14px;
   font-weight: 500;
   color: #0077cc;
 }
