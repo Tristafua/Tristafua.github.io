@@ -2,7 +2,7 @@
 title: "Research trends and hotspots of exercise for Alzheimer's disease"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-09-07-my-paper
+permalink: /publication/2022-09-07-research-trends-alzheimers
 excerpt: 'This paper studies research trends and hotspots of exercise for AD.'
 date: 2022-09-07
 venue: 'Frontiers in Neuroscience'
