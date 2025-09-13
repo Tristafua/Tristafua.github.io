@@ -23,7 +23,7 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 
 ---
 
-## Selected # Publications 📄 {#publications}
+# Selected Publications 📄 {#publications}
 Selected Publications
   ...
 
