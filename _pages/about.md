@@ -28,7 +28,9 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 <div class="pub-row">
 
   {% if pub.image %}
-    <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+    <div class="pub-image">
+      <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+    </div>
   {% endif %}
   
   <div class="pub-details">
