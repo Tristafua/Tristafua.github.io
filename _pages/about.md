@@ -25,13 +25,22 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 ## Publications 📄 {#publications}
 {% assign pubs = site.publications | sort: 'date' | reverse %}
 {% for pub in pubs limit:5 %}
- {% if pub.image %}
-    <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" style="max-width:400px;">
+<div style="display:flex; align-items:center; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); padding:10px; border-radius:8px;">
+
+  {% if pub.image %}
+    {div style="flex:0 0 200px; margin-right:20px;">
+      <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" style="max-width:100%; border-radius:6px;">
+    </div>
   {% endif %}
-- <strong>{{ pub.title }}</strong>  
-  {{ pub.citation }}  
-  {% if pub.paperurl %}[PDF]({{ pub.paperurl }}){% endif %}
-  {% if pub.bibtexurl %}[BibTeX]({{ pub.bibtexurl }}){% endif %}
+  <div style="flex:1;">
+    <p><strong>{{ pub.title }}</strong></p> 
+    <p>{{ pub.citation }} </p> 
+    <p>
+      {% if pub.paperurl %}[PDF]({{ pub.paperurl }}){% endif %}
+      {% if pub.bibtexurl %}[BibTeX]({{ pub.bibtexurl }}){% endif %}
+    </p>
+  </div>
+</div>
 {% endfor %}
 
 
