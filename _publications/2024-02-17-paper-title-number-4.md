@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about neuropathic pain and neurodegenerative diseases'
 date: 2023-07-12
 venue: 'Frontiers in Immunology'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://tristafua.github.io/files/paper2.pdf'
 citation: 'Fu Y, Gong C, Zhu C, Zhong W, Guo J, Chen B. Research trends and hotspots of neuropathic pain in neurodegenerative diseases: a bibliometric analysis. Front Immunol. 2023 Jul 12;14:1182411.'
 image: "/images/paper2.png"
 ---
