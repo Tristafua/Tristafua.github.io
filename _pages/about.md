@@ -62,16 +62,16 @@ I'm finding some PhD positions, so if you're interested in me, feel free to [ema
 {% endfor %}
 
 ## 🌍 Conference
-- 2024.10: “Computational Biology of the Genome” Cold Spring Harbor Asia Conference, Suzhou <br>
+- 2024.10: “Computational Biology of the Genome” Cold Spring Harbor Asia Conference, Suzhou  
   — learned and shared research ideas
-- 2024.03: 29th Congress of Chinese Society of Pathology and 13th Annual Meeting of
-Chinese Pathologist’s, Beijing <br>
-  — written presentation <br>
-  — as a volunteer responsible for VIP registration <br>
-- 2021.10: 10th Jinling High-level Forum on Rehabilitation Medicine Youth Forum, Nanjing <br>
-  — oral presentation <br>
-- 2021.06: 2021 Jiangsu Physical Medicine and Rehabilitation Medicine Conference, Huaian <br>
-  — oral presentation <br>
+- 2024.03: 29th Congress of Chinese Society of Pathology and 13th Annual Meeting of Chinese Pathologist’s, Beijing  
+  — written presentation  
+  — as a volunteer responsible for VIP registration
+- 2021.10: 10th Jinling High-level Forum on Rehabilitation Medicine Youth Forum, Nanjing  
+  — oral presentation
+- 2021.06: 2021 Jiangsu Physical Medicine and Rehabilitation Medicine Conference, Huaian  
+  — oral presentation
+
 
 ## 🎖️ Honors and Awards  
 - 2023.06: 🌟 Outstanding Bachelor Graduate of Xuzhou Medical University
