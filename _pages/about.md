@@ -1,4 +1,4 @@
-<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/afa6d79c-1cda-4b6b-b8bc-6278d5aff66e" />---
+---
 layout: single
 permalink: /
 title: "Homepage"
