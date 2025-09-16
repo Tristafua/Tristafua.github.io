@@ -13,7 +13,7 @@ I'm a third year Master student from Institute of Basic Medical Sciences Chinese
     
 My research interests focus on:m6A modification, mitochondria and neurodegenerative diseases. 
 
-I'm finding some PhD positions, so if you're interested in me, feel free to [email me](mailto:fyjjade5525@gmail.com).
+I'm currently exploring PhD opportunities, so if you're interested in me, feel free to [email me](mailto:fyjjade5525@gmail.com).
 
 ## 🔥 News {#news}
 - 2025.09: 🎉 Congratulations to myself on finishing an article! Hope it gets accepted soon.
