@@ -1,15 +1,20 @@
+```markdown
 ---
-title: "Research trends and hotspots of neuropathic pain in neurodegenerative diseases: a bibliometric analysis"
+title: "PP2Acα regulates cerebellar development via phosphorylation-dependent neuronal programs"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about neuropathic pain and neurodegenerative diseases'
-date: 2025-01-16
+permalink: /publication/2026-01-16-paper
+excerpt: 'This study identifies PP2Acα as a critical regulator of cerebellar development, coordinating phosphorylation-dependent neuronal programs that control granule neuron proliferation, migration, Purkinje cell organization, and motor/cognitive function.'
+date: 2026-01-16
 venue: 'iScience'
 paperurl: 'http://yujiefu-jade.github.io/files/paper3.pdf'
-citation: 'Fu Y, Gong C, Zhu C, Zhong W, Guo J, Chen B. Research trends and hotspots of neuropathic pain in neurodegenerative diseases: a bibliometric analysis. Front Immunol. 2023 Jul 12;14:1182411.'
+citation: 'Li Y, Ding J, Liu S, Wu Q, Fu Y, Li Q, Lv A, Liu C, Tong W-M, Niu Y. PP2Acα regulates cerebellar development via phosphorylation-dependent neuronal programs. iScience. 2026 Jan 16;29:114352. doi:10.1016/j.isci.2025.114352.'
 image: "/images/paper3.png"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Protein phosphorylation is essential for cerebellar development, but the contribution of protein phosphatases remains less well understood. In this study, we investigated the role of protein phosphatase 2A catalytic subunit alpha (PP2Acα) in cerebellar granule neurons using conditional *Ppp2ca* knockout mouse models.
 
+Granule neuron-specific loss of PP2Acα disrupted cerebellar development by impairing granule neuron proliferation, cell-cycle progression, and migration, and by altering Purkinje cell organization. These developmental defects were associated with reduced cerebellar size and deficits in motor coordination, balance, and cognitive performance.
+
+Integrated phosphoproteomic and proteomic analyses further revealed that PP2Acα regulates multiple phosphorylation-dependent neuronal programs, including cell-cycle control, cytoskeletal remodeling, mRNA processing, metabolism, translation, and synaptic signaling. These findings establish PP2Acα as a key regulator of cerebellar development and provide mechanistic insight into phosphatase-related neurodevelopmental disorders.
+```
