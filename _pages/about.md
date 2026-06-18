@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me {#about}
-I'm a third-year master's student from Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences / School of Basic Medicine Peking Union Medical College. I am very fortunate to be advised by Prof. Yamei NIU and Prof. Wei-Min Tong.
+I'm a third-year master's student from Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences / School of Basic Medicine Peking Union Medical College. I am very fortunate to be advised by Prof. Yamei NIU and Prof. Wei-Min TONG.
     
 My research interests include: computational biology, genomic foundation model, multiomics analysis, RNA modification, mitochondria and neurodegenerative diseases. 
 
