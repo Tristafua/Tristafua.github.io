@@ -17,7 +17,7 @@ I'm currently exploring PhD opportunities, so if you're interested in me, feel f
 
 ## 🔥 News {#news}
 - 2026.06: 🎉 Congratulations! A paper I contributed to was accepted by Cancer Research.
-- 2026.05: 🎉 Congratulations！I successfully passed my Master's thesis defense.
+- 2026.05: 🎉 Congratulations! I successfully passed my Master's thesis defense.
 - 2026.05: 🎉 Congratulations! A paper I contributed to was accepted by Science Advances.
 - 2025.12: 🎉 Congratulations! A paper I contributed to was accepted by iScience.
   
