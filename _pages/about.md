@@ -16,9 +16,10 @@ My research interests focus on: m6A modification, mitochondria and neurodegenera
 I'm currently exploring PhD opportunities, so if you're interested in me, feel free to [email me](mailto:fyjjade5525@gmail.com).
 
 ## 🔥 News {#news}
-- 2025.10: 🎉 Congratulations to myself on receiving the Second Prize Scholarship.
-- 2025.09: 🎉 Congratulations to myself on finishing an article! Hope it gets accepted soon.
-- 2025.08: 🎉 Congratulations to myself on passing the IELTS exam.
+- 2026.06: 🎉 Congratulations! A paper I contributed to was accepted by Cancer Research.
+- 2026.05: 🎉 Congratulations！I successfully passed my Master's thesis defense.
+- 2026.05: 🎉 Congratulations! A paper I contributed to was accepted by Science Advances.
+- 2025.12: 🎉 Congratulations! A paper I contributed to was accepted by iScience.
   
 ## 🧑‍🎓 Education {#education}
 - 2023.09 - Present, Peking Union Medical College / Chinese Academy of Medical Sciences <br>
@@ -77,6 +78,7 @@ I'm currently exploring PhD opportunities, so if you're interested in me, feel f
   - oral presentation
 
 ## 🎖️ Honors and Awards  
+- 2025.11: 🌟 Second Prize Scholarship of Peking Union Medical College
 - 2023.06: 🌟 Freshman Scholarship of Peking Union Medical College
 - 2023.06: 🌟 First-Class Honours Bachelor 2023
 - 2023.06: 🌟 Outstanding Bachelor Graduate of Xuzhou Medical University
